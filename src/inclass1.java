@@ -1,7 +1,8 @@
+//Ramanpreet Singh  991499875
 public class inclass1 {
 
     public static void main(String[] args) {
-        double[] tempList = { 12.5, 49.7, 56, -60, 84.4, -7, 3, 24, -17, 9, 7, 3.1, -47, -12 };
+        double[] tempList = { 12.5, 49.7, 56, -60, 84.4, -7, 3, 24, -17, 9, 7, 13.1, -47, -19.4 };
         System.out.println("Average temperature: " + calcAvg(tempList));
 
     }
